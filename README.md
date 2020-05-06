@@ -1,3 +1,9 @@
+#postman-docker
+# Run Postman collections, test out CityIQ APIs, then explore from there
+I cloned from another project (https://github.com/DannyDainton/postman-docker.git ), and tweak from there.
+
+Added node:latest
+
 # Run Postman Collections Using Docker
 
 [Postman](https://www.getpostman.com/) is awesome, building and running your checks through the built-in collection runner is amazing but what I like to do, once I have a stable set of requests, is to export my Collection and Environment files from the application and run them in the command line using [Newman](https://github.com/postmanlabs/newman).
